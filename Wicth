@@ -68,8 +68,7 @@ http://line.premiumpowers.net:80/Bianca/1234567/924740
 
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 1
 http://line.premiumpowers.net:80/Bianca/1234567/924741
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", ch-number=" " tvg-name="Store" group-title="LIVE  MOVIE",Welcome To Jepstore
-https://tinyurl.com/yck8nndy
+
 #EXTINF:-1 tvg-id="CHN" ch-number=" " tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="LIVE  MOVIE",US| 24/7 SHOWTIME 2
 http://line.premiumpowers.net:80/Bianca/1234567/924742
 

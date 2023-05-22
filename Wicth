@@ -11245,9 +11245,13 @@ https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1
 #EXTINF: -1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFVRf2WPn5lhdeaP8InUzNMM0hY.jpg",Imam Instant Scammer E08
 https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_bwfv8rny/v/1/ev/8/flavorId/1_,0xog09y4,7mty4ghp,ug2nad55,twf184u4,zxtpetlq,dvyoo7fw,a25dec7d,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
   
-#EXTINF:-1 type="movie" tvg-logo="https://img.hdtoday.tv/xxrz/250x400/394/7b/b5/7bb58362b41884382f7bdbb8c9c44968/7bb58362b41884382f7bdbb8c9c44968.jpg" group-title="HD Movies", Robots (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://img.hdtoday.tv/xxrz/250x400/394/7b/b5/7bb58362b41884382f7bdbb8c9c44968/7bb58362b41884382f7bdbb8c9c44968.jpg" group-title="HD Movies", Robots(2022)
 #EXTVLCOPT:http-referrer=https://hdtoday.tv/watch-movie/watch-robots-hd-96838.9626737
 https://evif.onthecloudcdn.com/_v10/2057304864c9de8eddf6046553a99bf86f70231e13978ddf4fe1181ceaa62c3c9e7cb9f3354685525cad2c683e91cd286165c853a995b703ce8e2d12d146cad087c46cbca84f2ecffcc908cdd96260f4bad4440117099ddf1a6225abf167f668ea941fc7db39d2ff5e922afdc73aa1aec26a1d55c35b5bc60ff981abfc9a7342/1080/index.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://img.hdtoday.tv/xxrz/250x400/394/2e/21/2e217b2f6bdbeacb59c4d2b3ac2731a9/2e217b2f6bdbeacb59c4d2b3ac2731a9.jpg" group-title="HD Movies", The Best Man(2023)
+#EXTVLCOPT:http-referrer=https://hdtoday.tv/watch-movie/watch-the-best-man-hd-96607.9614332
+https://owt.webarchivecdn.com/_v10/4fd88beed8ba30a4ba50b63efdb9c44d21516f400600370f142c810655b872737ab159043d7ec5e5e2a46e7a68d54baaf7d95adafe2db19f4a48554f57a0577abf887cec0a12af18cb0fbe99a099097cdb214e3af3b5531fea1779106ecb5dea2fbf3fcfd7ee4be04d2c2f53d82db014917855b0be3a8dd91e2079027fc66135/1080/index.m3u8
 
 
 

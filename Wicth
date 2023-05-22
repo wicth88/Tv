@@ -11245,7 +11245,9 @@ https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1
 #EXTINF: -1 type="series" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFVRf2WPn5lhdeaP8InUzNMM0hY.jpg",Imam Instant Scammer E08
 https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_bwfv8rny/v/1/ev/8/flavorId/1_,0xog09y4,7mty4ghp,ug2nad55,twf184u4,zxtpetlq,dvyoo7fw,a25dec7d,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
   
-
+#EXTINF:-1 type="New Added" tvg-logo="https://i.postimg.cc/j25j18F4/20221110-140952.png" group-title="HD Movies", Robots (2022)
+#EXTVLCOPT:http-referrer=https://hdtoday.tv/watch-movie/watch-robots-hd-96838.9626737
+https://evif.onthecloudcdn.com/_v10/2057304864c9de8eddf6046553a99bf86f70231e13978ddf4fe1181ceaa62c3c9e7cb9f3354685525cad2c683e91cd286165c853a995b703ce8e2d12d146cad087c46cbca84f2ecffcc908cdd96260f4bad4440117099ddf1a6225abf167f668ea941fc7db39d2ff5e922afdc73aa1aec26a1d55c35b5bc60ff981abfc9a7342/1080/index.m3u8
 
 
 

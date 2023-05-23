@@ -11277,9 +11277,23 @@ https://b-g-eu-12.feetcdn.com:2223/v3-hls-playback/0156cd1804bfd9bde23c83628d869
 =========================================================================================anime============================================================================
 ###########anime##############
 
-#EXTINF:-1 type="series" tv-logo="https://1.bp.blogspot.com/-nZCpNwl4mAs/YJPeYhqgvNI/AAAAAAAALlw/K7jN_gwj1bA6YY-2y2jS2C-0uyCrMQ9SQCLcBGAsYHQ/w0/Cukup%2BDerita%2BItu.jpg" ,"Mashle: Magic and Muscles Episode 1"
+#EXTINF:-1 type="series" tv-logo="https://i.imgur.com/LARQFXk.jpeg" ,Mashle: Magic and Muscles Episode 6
 #EXTVLCOPT:http-referrer=https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=101252
 https://tc-1.boocdn.net/_v6/0a51d9492932fb0c970f0652ff6c43aa5d8be6fec91dfc4487f1e97073499fb64d10a7f94216685d584fb25e5b05700ad6330ce63692b352d80828c18803ea780c165c4f15f2708b522d147ad8a2a99b6639b1fa10177c626720594cf9eb40cf9377620871ae8dbae8a6dd3d2ab4af375225d9fb50977a91b5993bd999baca47/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 type="series" tv-logo="https://i.imgur.com/LARQFXk.jpeg" ,Mashle: Magic and Muscles Episode 1
+#EXTVLCOPT:http-referrer=https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=101252
+https://tc-1.dayimage.net/_v6/c5e857c847a94a71cbebcfc9d46103b70dc5d7570b0a6020d684ef46a15d2cc3fd2b9db3a98df9609783472364632993583d087f5c08d8918166accc0159f3d4ac28a6d6e53a50d9e814023330a8fe3777b95e9f9be11c13ab293258a2a97e9232d611c26389303a9ebc372a89b8a29256bd18145063dec8e22634f2cf912629/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 type="series" tv-logo="https://i.imgur.com/LARQFXk.jpeg" ,Mashle: Magic and Muscles Episode 2
+#EXTVLCOPT:http-referrer=https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=101252
+https://tc-1.dayimage.net/_v6/63201f70ae2cdd3a275d76f4ab0dbd372ba3d01c02fd013d453c10a05bbcced78f6f827269c893d99e2317f02ee54b8591bf6516251d618549b38e785e7e0cbc8580aa974563f572fe9deb64a8702b528b4e2a02f7b32c8d1216618bedb7f0bfa9e66aa2ce485910f57e6ee8cbd58ce61b08deb965494cc83df082c579b620ed/index-f1-v1-a1.m3u8
+
+
+
+
+
+
 
 </noscript>
 

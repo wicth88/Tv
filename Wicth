@@ -5365,6 +5365,13 @@ http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=57123
 #EXTVLCOPT:http-user-agent=ktiptvPlayer
 http://hotz.vip:2082/faizatiejom/faizatiejom/28
 
+#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=ktiptvPlayer
+http://hotz.vip:2082/faizatiejom/faizatiejom/28
 
 
 

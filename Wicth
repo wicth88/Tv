@@ -5328,8 +5328,9 @@ https://iplogger.com/aura
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria(A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPo
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://linears-playback.astro.com.my/vsg/41lRwQ5-YRu0NOgknpiz1GzZORt_0Tz3s9Gkv0XYDmfSI=Sew2/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria(B) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5345,7 +5346,8 @@ https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria(A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPo
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://linears-playback.astro.com.my/vsg/41lRwQ5-YRu0NOgknpiz1GzZORt_0Tz3s9Gkv0XYDmfSI=Sew2/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.imgur.com/RrIVJJY.png", 104 Astro Ria(B) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5360,7 +5362,10 @@ http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=57123
 https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="ASTRO", 132 Astro Warna HD (A)
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltZtoq8k0qaGrI1gLVh-k-AQ=hoBa/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna HD (B)
 http://speedtrademarket.com/livehd333/irinaspicy/c/warna
@@ -5368,7 +5373,10 @@ http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra (A)
-http://tv365.me:80/live/8059765630/3322606439/400200335.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltW8WcV1bARFnO-m_qxpvGz0=K5uJ/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5381,7 +5389,10 @@ http://tv365.me:80/live/8059765630/3322606439/79327.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra (A)
-http://tv365.me:80/live/8059765630/3322606439/400200335.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltW8WcV1bARFnO-m_qxpvGz0=K5uJ/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive

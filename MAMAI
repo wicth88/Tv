@@ -1,5 +1,6 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" vod_library="https://www.dropbox.com/scl/fi/x6h9kdgtnes2gr86cbye0/movie-series-by-cvision.m3u?rlkey=0nhsn1xzh5ie0a9vdj2ija4kq&dl=1, https://fahmikacak.pages.dev/HBOGO%20Asia, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php"  refresh="1440" billed-msg="Not For Sell, Updated:14/8/2024 | SUBSCRIPTION : Fremium"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" 
+vod_library="https://www.dropbox.com/scl/fi/x6h9kdgtnes2gr86cbye0/movie-series-by-cvision.m3u?rlkey=0nhsn1xzh5ie0a9vdj2ija4kq&dl=1, https://fahmikacak.pages.dev/HBOGO%20Asia, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php"  refresh="1440" billed-msg="Not For Sell, Updated:14/8/2024 | SUBSCRIPTION : Fremium"
 
 ASTRO
 #####

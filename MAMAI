@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" 
-refresh="1440" billed-msg="Not For Sell, Updated:14/8/2024 | SUBSCRIPTION : Fremium"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="Not For Sell, Updated:14/2024 | SUBSCRIPTION : Fremium"
 
 ASTRO
 #####

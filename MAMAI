@@ -1,7 +1,47 @@
 Text
   #EXTM3U 
-#EXTM3U url-tvg="https://ln.run/unifi_epg_cvision, https://ln.run/astro_epg_cvision, https://ln.run/epg_indo_cvision, https://ln.run/indo_cvision, https://ln.run/indo2-epg-cvision, https://ln.run/epg-samsung-us-cvision, https://ln.run/epg-pluto-us-cvision, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml, https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://www.bevy.be/bevyfiles/arabia.xml, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://www.bevy.be/bevyfiles/vietnam.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://www.bevy.be/bevyfiles/malaysiapremium1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz, https://live.fanmingming.com/e.xml, https://i.mjh.nz/PlutoTV/all.xml.gz, https://i.mjh.nz/SamsungTVPlus/all.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" vod_library="https://www.dropbox.com/scl/fi/x6h9kdgtnes2gr86cbye0/movie-series-by-cvision.m3u?rlkey=0nhsn1xzh5ie0a9vdj2ija4kq&st=w1sof4bb&dl=1" billed-msg="CUSTOMISE BY=PANDA02   LAST UPDATE=05/09/24 AT 11.00AM  NOTE=NOTFORSELL"
+#EXTM3U url-tvg="https://ln.run/unifi_epg_cvision, https://ln.run/astro_epg_cvision, https://ln.run/epg_indo_cvision, https://ln.run/indo_cvision, https://ln.run/indo2-epg-cvision, https://ln.run/epg-samsung-us-cvision, https://ln.run/epg-pluto-us-cvision, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml, https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://www.bevy.be/bevyfiles/arabia.xml, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://www.bevy.be/bevyfiles/vietnam.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://www.bevy.be/bevyfiles/malaysiapremium1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz, https://live.fanmingming.com/e.xml, https://i.mjh.nz/PlutoTV/all.xml.gz, https://i.mjh.nz/SamsungTVPlus/all.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" vod_library="https://www.dropbox.com/scl/fi/x6h9kdgtnes2gr86cbye0/movie-series-by-cvision.m3u?rlkey=0nhsn1xzh5ie0a9vdj2ija4kq&st=w1sof4bb&dl=1, https://fahmikacak.pages.dev/HBOGO%20Asia, https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php" billed-msg="CUSTOMISE BY=PANDA02   LAST UPDATE=05/09/24 AT 11.00AM  NOTE=NOTFORSELL"
 
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SUPERSPORT",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SUPERSPORT",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SUPERSPORT",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SUPERSPORT",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="SUPERSPORT",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SUPERSPORT",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SUPERSPORT",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SUPERSPORT",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SUPERSPORT",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8
 
 
 
@@ -976,7 +1016,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6RXdZelU1WVdNdFpHVTNOeTAwTURGbExXSmtNall0T0RrMVpUSTVabVF3TW1JNSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTgwNTE1NywiaWF0IjoxNzI1MjAxMTU3fQ.GQV0Towf7--8y9p6wuQk2A09fUWsvxSCcGeq--acLns"}
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="805.astro" ch-number="805" tvg-name="Supersport UHD" group-title="MALAYSIA TV" tvg-logo="https://i.ytimg.com/vi/QHOnglfMNTA/mqdefault.jpg",805 SUPERSPORT UHD
+#EXTINF:-1 tvg-id="805.astro" ch-number="805" tvg-name="SUPERSPORT" UHD" group-title="MALAYSIA TV" tvg-logo="https://i.ytimg.com/vi/QHOnglfMNTA/mqdefault.jpg",805 SUPERSPORT UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash

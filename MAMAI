@@ -1321,6 +1321,8 @@ http://iptv12k.com:35461/m240825578141724/111111/11241
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4 .Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS2",ASSP4 .Astro Supersports Premier 4
 http://iptv12k.com:35461/m240825578141724/111111/11240
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Arena(b) SPORTS2" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg" group-title="SPORTS",ASTRO Arena(b) SPORTS
+http://iptv12k.com:35461/m240825578141724/111111/966
 #EXTINF:-1 tvg-id="AstroArena2.my" tvg-name="Arena 2(a) SPORTS Astro " tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="SPORTS2",Arena 2(a) SPORTS Astro 
 http://iptv12k.com:35461/m240825578141724/111111/965
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png" group-title="SPORTS2",Astro Arena 1(b)

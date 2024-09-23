@@ -2,14 +2,28 @@
 #EXTM3U url-tvg="https://ln.run/unifi_epg_cvision, https://ln.run/astro_epg_cvision, https://ln.run/epg_indo_cvision, https://ln.run/indo_cvision, https://ln.run/indo2-epg-cvision, https://ln.run/epg-samsung-us-cvision, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://ln.run/epg-pluto-us-cvision, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml, https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz, https://www.bevy.be/bevyfiles/singaporepremium2.xml, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://www.bevy.be/bevyfiles/arabia.xml, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://www.bevy.be/bevyfiles/vietnam.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://www.bevy.be/bevyfiles/malaysiapremium1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz, https://live.fanmingming.com/e.xml, https://i.mjh.nz/PlutoTV/all.xml.gz, https://i.mjh.nz/SamsungTVPlus/all.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" vod_library="https://www.dropbox.com/scl/fi/x6h9kdgtnes2gr86cbye0/movie-series-by-cvision.m3u?rlkey=0nhsn1xzh5ie0a9vdj2ija4kq&st=w1sof4bb&dl=1" billed-msg="CUSTOMISE BY=PANDA02  LAST UPDATE=23/09/24 NOTE=NOTEFORSELL"
 ##########################################################################################################################
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="ASSP1(e) Astro Supersports Premier League 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Malaysia(MY)",ASSP1(e) Astro Supersports Premier League 1 
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="ASSP1(e) Astro Supersports Premier League 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS2" group-logo="https://i.ibb.co/n3ZhtmX/Screenshot-2024-08-01-143105.jpg" ,ASSP1(e) Astro Supersports Premier League 1 
 http://iptv12k.com:35461/m240825578141724/111111/11243
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(a) Astro Supersports Premier League 2 my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Malaysia(MY)",ASSP2(a) Astro Supersports Premier League 2 my
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(a) Astro Supersports Premier League 2 my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS2",ASSP2(a) Astro Supersports Premier League 2 my
 http://iptv12k.com:35461/m240825578141724/111111/11242
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(g)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Malaysia(MY)",ASSP3(g)Astro Supersports Premier League 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(g)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS2",ASSP3(g)Astro Supersports Premier League 3
 http://iptv12k.com:35461/m240825578141724/111111/11241
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4 .Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Malaysia(MY)",ASSP4 .Astro Supersports Premier 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4 .Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS2",ASSP4 .Astro Supersports Premier 4
 http://iptv12k.com:35461/m240825578141724/111111/11240
+
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-name="Arena 2(a) SPORTS Astro " tvg-logo="https://i.ytimg.com/vi/UXCymQ-7RN8/maxresdefault.jpg" group-title="SPORTS2",Arena 2(a) SPORTS Astro 
+http://iptv12k.com:35461/m240825578141724/111111/965
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_Arena_HD.png" group-title="SPORTS2",Astro Arena 1(b)
+http://iptv12k.com:35461/m240825578141724/111111/688
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1 Sport" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="SPORTS2",Bola Arena1 Sport
+http://iptv12k.com:35461/m240825578141724/111111/20630
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2 Sport" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="SPORTS2",Bola Arena2 Sport
+http://iptv12k.com:35461/m240825578141724/111111/20629
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="SPORTS2",Bola Arena2
+http://iptv12k.com:35461/m240825578141724/111111/20628
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://i.ytimg.com/vi/uOQKpR91Cjc/mqdefault.jpg" group-title="SPORTS2",Bola Arena1
+http://iptv12k.com:35461/m240825578141724/111111/20627
+
   
 https://i.ibb.co/n3ZhtmX/Screenshot-2024-08-01-143105.jpg
 

@@ -687,7 +687,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 player-buffer="2" ch-number="104" group-title="ASIATV" tvg-name="RIA HD" tvg-logo="https://i.ytimg.com/vi/Pe8klqVKjOA/maxresdefault.jpg" tvg-id="104.astro",104 RIA (not 24h)
+#EXTINF:-1 player-buffer="2" ch-number="104" group-title="MALAYSIA" tvg-name="RIA HD" tvg-logo="https://i.ytimg.com/vi/Pe8klqVKjOA/maxresdefault.jpg" tvg-id="104.astro",104 RIA (not 24h)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #https://go.munzstore.xyz/malaria.mpd
@@ -697,7 +697,7 @@ https://linears-playback.astro.com.my/vsg/41jvvsbHyqR-CedHSbuFktBK_Qj9V94uUvOXmI
 
 
 
-#EXTINF:-1 player-buffer="2" tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ec2ed46074105.5607c14e78b7c.jpg" group-title="ASIATV",105 PRIMA (not 24h)
+#EXTINF:-1 player-buffer="2" tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ec2ed46074105.5607c14e78b7c.jpg" group-title="MALAYSIA",105 PRIMA (not 24h)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -705,7 +705,7 @@ https://linears-playback.astro.com.my/vsg/41jvvsbHyqR-CedHSbuFktBK_Qj9V94uUvOXmI
 https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41j1-c_4w-UgLoYDcSn-S6DCkrJ_mFCFDBOgIhY6a-s_U=xUys/dash-wv/jitp-dashisowm/1000/default.mpd?ads.hhid=ec7d3945304e69621f527238b6749db6&aws.sessionId=5ae934bc-1f3e-4146-8c7b-51ddd264adc5
 
    
-#EXTINF:-1 player-buffer="2" tvg-id="106.astro" ch-number="106" tvg-name="OASIS HD" tvg-logo="https://i.ytimg.com/vi/9cZ5Vaqyv7U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGA8gZShlMA8=&rs=AOn4CLDB6LZQz2-mYWUx5Nq8tksqJ2EijQ" group-title="ASIATV",106 OASIS
+#EXTINF:-1 player-buffer="2" tvg-id="106.astro" ch-number="106" tvg-name="OASIS HD" tvg-logo="https://i.ytimg.com/vi/9cZ5Vaqyv7U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGA8gZShlMA8=&rs=AOn4CLDB6LZQz2-mYWUx5Nq8tksqJ2EijQ" group-title="MALAYSIA",106 OASIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -714,14 +714,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
 
-#EXTINF:-1 player-buffer="2" ch-number="107"  tvg-name="WARNA HD" tvg-logo="https://i.ytimg.com/vi/czNzlB-6_NU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyglMA8=&rs=AOn4CLDFO3s38BjXyVmqkQ5IzTC19kmbKw" group-title="ASIATV" tvg-id="107.astro",107 WARNA (not 24h)
+#EXTINF:-1 player-buffer="2" ch-number="107"  tvg-name="WARNA HD" tvg-logo="https://i.ytimg.com/vi/czNzlB-6_NU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyglMA8=&rs=AOn4CLDFO3s38BjXyVmqkQ5IzTC19kmbKw" group-title="MALAYSIA" tvg-id="107.astro",107 WARNA (not 24h)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #https://go.munzstore.xyz/shawarma.mpd
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/415jLahnpX_zgzSFTh7_1acJhy9HeWNFGeIWGldM1jhWs=Eu5r/dash-wv/jitp-dashisowm/2402/default.mpd?ads.hhid=ec7d3945304e69621f527238b6749db6&aws.sessionId=72775bd9-1616-4d6e-9a98-763a0f7801f4
 
 
-#EXTINF:-1 player-buffer="2" ch-number="108"  tvg-name="CITRA HD" group-title="ASIATV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgAt8Y6ToAaXpO2vJ_c5WHhACIiOMmToQ_J62UoIxWA4kQfZVv2tlRL8kbQY2HVUu9vy7iDzw8RquGIFztdvCdJxt6EJyJkY-tZ_qpV2si356kzYoN_Vbb8XSnLq9BEPR5rlYA5DmhyBbBlS3lKsbKuB8x2s0fIPQbqdhZxpT2OPKi5-_rEBv1UgRlcUAv/s800/16.png" tvg-id="108.astro",108 CITRA (not 24h)
+#EXTINF:-1 player-buffer="2" ch-number="108"  tvg-name="CITRA HD" group-title="MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgAt8Y6ToAaXpO2vJ_c5WHhACIiOMmToQ_J62UoIxWA4kQfZVv2tlRL8kbQY2HVUu9vy7iDzw8RquGIFztdvCdJxt6EJyJkY-tZ_qpV2si356kzYoN_Vbb8XSnLq9BEPR5rlYA5DmhyBbBlS3lKsbKuB8x2s0fIPQbqdhZxpT2OPKi5-_rEBv1UgRlcUAv/s800/16.png" tvg-id="108.astro",108 CITRA (not 24h)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #https://go.munzstore.xyz/citrarasa.mpd
@@ -729,7 +729,7 @@ https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.co
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113.unifi" ch-number="109" tvg-name="Salam HD" tvg-logo="https://i.ytimg.com/vi/96tgtUT5mDk/maxresdefault.jpg" group-title="ASIATV",109 SALAM HD
+#EXTINF:-1 tvg-id="113.unifi" ch-number="109" tvg-name="Salam HD" tvg-logo="https://i.ytimg.com/vi/96tgtUT5mDk/maxresdefault.jpg" group-title="MALAYSIA",109 SALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
   
